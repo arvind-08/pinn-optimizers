@@ -1,0 +1,8 @@
+{
+  "optimizer": "Adam",
+  "num_epochs": 1000,
+  "learning_rate": 0.001,
+  "final_loss": 0.10064592957496643,
+  "training_time_sec": 6.22,
+  "device": "cpu"
+}
